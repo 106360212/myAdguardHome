@@ -11,4 +11,5 @@
 ||bats.video.yahoo.com
 ||scorecardresearch.com^
 ||adtechus.com^
-||generate_204^
+||cse.google.com^
+||clients1.google.com^
