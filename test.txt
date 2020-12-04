@@ -11,3 +11,4 @@
 ||bats.video.yahoo.com
 ||scorecardresearch.com^
 ||adtechus.com^
+||generate_204^
