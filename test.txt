@@ -44,3 +44,11 @@ andrcool.com||mangaapi.manhuaren.com/v1/public/getAditem
 ||mangaapi.manhuaren.com/v1/public/getStartPageAds
 ||mangaapi.manhuaren.com/v1/public/getMultiAdsStrategy
 ||mangaapi.manhuaren.com/v1/public/getAds
+www.googleadservices.com
+googleads.g.doubleclick.net
+securepubads.g.doubleclick.net
+ad.doubleclick.net
+ssl.google-analytics.com
+adservice.google.de
+ade.googlesyndication.com
+id.google.de
