@@ -52,12 +52,7 @@ ssl.google-analytics.com
 adservice.google.de
 ade.googlesyndication.com
 id.google.de
-graph.facebook.com
-a-graph.facebook.com
-b-api.facebook.com
-edge-mqtt.facebook.com
 graph.instagram.com
-mqtt-mini.facebook.com
 stats.gc.apple.com
 iadsdk.apple.com
 ads.twitter.com
